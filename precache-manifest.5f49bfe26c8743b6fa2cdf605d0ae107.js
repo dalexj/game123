@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/game123/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "945e4e79a2d342c621b3",
+    "revision": "a37031e6d2788481a8c9",
     "url": "/game123/static/css/main.c82520e8.chunk.css"
   },
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/game123/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "89889688147bd7575d6327160d64e760",
+    "url": "/game123/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "b84a995ea78bfa6e210b",
-    "url": "/game123/static/js/1.b84a995e.chunk.js"
+    "revision": "29e2ab8fa2f8453dc122",
+    "url": "/game123/static/js/1.29e2ab8f.chunk.js"
   },
   {
     "revision": "1793dd7f52342fab9ce8",
     "url": "/game123/static/js/runtime~main.1793dd7f.js"
   },
   {
-    "revision": "945e4e79a2d342c621b3",
-    "url": "/game123/static/js/main.945e4e79.chunk.js"
+    "revision": "a37031e6d2788481a8c9",
+    "url": "/game123/static/js/main.a37031e6.chunk.js"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/game123/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "89889688147bd7575d6327160d64e760",
-    "url": "/game123/static/media/glyphicons-halflings-regular.89889688.svg"
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/game123/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
-    "revision": "b84a995ea78bfa6e210b",
+    "revision": "29e2ab8fa2f8453dc122",
     "url": "/game123/static/css/1.b9256348.chunk.css"
   },
   {
-    "revision": "4e0e7b171ee0540c92598265363f967c",
+    "revision": "c39c57fdfdba2969bcb706febc970bdf",
     "url": "/game123/index.html"
   }
 ];
