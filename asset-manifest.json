@@ -1,16 +1,25 @@
 {
-  "main.css": "/game123/static/css/main.c82520e8.chunk.css",
-  "main.js": "/game123/static/js/main.713b2720.chunk.js",
-  "main.js.map": "/game123/static/js/main.713b2720.chunk.js.map",
-  "static/css/1.b9256348.chunk.css": "/game123/static/css/1.b9256348.chunk.css",
-  "static/js/1.2ac0c72b.chunk.js": "/game123/static/js/1.2ac0c72b.chunk.js",
-  "static/js/1.2ac0c72b.chunk.js.map": "/game123/static/js/1.2ac0c72b.chunk.js.map",
-  "runtime~main.js": "/game123/static/js/runtime~main.1793dd7f.js",
-  "runtime~main.js.map": "/game123/static/js/runtime~main.1793dd7f.js.map",
-  "static/media/bootstrap.css": "/game123/static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/css/main.c82520e8.chunk.css.map": "/game123/static/css/main.c82520e8.chunk.css.map",
-  "static/css/1.b9256348.chunk.css.map": "/game123/static/css/1.b9256348.chunk.css.map",
-  "index.html": "/game123/index.html",
-  "precache-manifest.1ece3a202d5e58d7577fb91fc2d541a4.js": "/game123/precache-manifest.1ece3a202d5e58d7577fb91fc2d541a4.js",
-  "service-worker.js": "/game123/service-worker.js"
+  "files": {
+    "main.css": "/game123/static/css/main.373af166.chunk.css",
+    "main.js": "/game123/static/js/main.1ce6d934.chunk.js",
+    "main.js.map": "/game123/static/js/main.1ce6d934.chunk.js.map",
+    "runtime-main.js": "/game123/static/js/runtime-main.f0c5abe7.js",
+    "runtime-main.js.map": "/game123/static/js/runtime-main.f0c5abe7.js.map",
+    "static/css/2.6d146be5.chunk.css": "/game123/static/css/2.6d146be5.chunk.css",
+    "static/js/2.8ca04359.chunk.js": "/game123/static/js/2.8ca04359.chunk.js",
+    "static/js/2.8ca04359.chunk.js.map": "/game123/static/js/2.8ca04359.chunk.js.map",
+    "index.html": "/game123/index.html",
+    "static/css/2.6d146be5.chunk.css.map": "/game123/static/css/2.6d146be5.chunk.css.map",
+    "static/css/main.373af166.chunk.css.map": "/game123/static/css/main.373af166.chunk.css.map",
+    "static/js/2.8ca04359.chunk.js.LICENSE.txt": "/game123/static/js/2.8ca04359.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/game123/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/custom.css": "/game123/static/media/menu_bg.e5f845a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c5abe7.js",
+    "static/css/2.6d146be5.chunk.css",
+    "static/js/2.8ca04359.chunk.js",
+    "static/css/main.373af166.chunk.css",
+    "static/js/main.1ce6d934.chunk.js"
+  ]
 }
